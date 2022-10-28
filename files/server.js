@@ -9,4 +9,4 @@ const PORT = process.env.PORT || 4001;
 
 app.use(express.static('public'));
 
-//I'm going back so I better understand express
+//I'm going back so I better understand express + this is what i'm talking about
