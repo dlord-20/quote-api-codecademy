@@ -26,6 +26,7 @@ app.get('/api/quotes', (req, res) => {
       quotes: quotes
     });
   }
+  // Wowza
 });
 
 app.post('/api/quotes', (req, res) => {
